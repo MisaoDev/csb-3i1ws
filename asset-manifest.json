@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://misaodev.github.io/csb-3i1ws/static/css/main.05a726c7.chunk.css",
+    "main.js": "https://misaodev.github.io/csb-3i1ws/static/js/main.38ed9ae4.chunk.js",
+    "main.js.map": "https://misaodev.github.io/csb-3i1ws/static/js/main.38ed9ae4.chunk.js.map",
+    "runtime-main.js": "https://misaodev.github.io/csb-3i1ws/static/js/runtime-main.66103476.js",
+    "runtime-main.js.map": "https://misaodev.github.io/csb-3i1ws/static/js/runtime-main.66103476.js.map",
+    "static/css/2.9dd370fd.chunk.css": "https://misaodev.github.io/csb-3i1ws/static/css/2.9dd370fd.chunk.css",
+    "static/js/2.2597a4b6.chunk.js": "https://misaodev.github.io/csb-3i1ws/static/js/2.2597a4b6.chunk.js",
+    "static/js/2.2597a4b6.chunk.js.map": "https://misaodev.github.io/csb-3i1ws/static/js/2.2597a4b6.chunk.js.map",
+    "index.html": "https://misaodev.github.io/csb-3i1ws/index.html",
+    "static/css/2.9dd370fd.chunk.css.map": "https://misaodev.github.io/csb-3i1ws/static/css/2.9dd370fd.chunk.css.map",
+    "static/css/main.05a726c7.chunk.css.map": "https://misaodev.github.io/csb-3i1ws/static/css/main.05a726c7.chunk.css.map",
+    "static/js/2.2597a4b6.chunk.js.LICENSE.txt": "https://misaodev.github.io/csb-3i1ws/static/js/2.2597a4b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66103476.js",
+    "static/css/2.9dd370fd.chunk.css",
+    "static/js/2.2597a4b6.chunk.js",
+    "static/css/main.05a726c7.chunk.css",
+    "static/js/main.38ed9ae4.chunk.js"
+  ]
+}
